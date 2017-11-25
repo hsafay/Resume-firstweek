@@ -35,3 +35,5 @@ table, th, td{border: 1px solid black;
 }
 .italic{font-style: italic;
 }
+p {margin: 30px;
+}
