@@ -5,12 +5,13 @@ body { background-image: url(http://www.wujinshike.com/data/wallpapers/144/WDF_1
 ; 
 background-position: center top;
 border: solid 2px;
-margin: 0 auto;
-padding: auto
+margin: auto;
+padding: 50px
 ;
 width: 21cm;
 height: auto;
 box-shadow: 0.0.0.3cm;
+
  
   }
 
@@ -32,4 +33,5 @@ height: 100%;}
 th{width: 150px;}
 table, th, td{border: 1px solid black;
 }
-
+.italic{font-style: italic;
+}
